@@ -1,0 +1,48 @@
+1. Number is divisible or not
+Input: 15 5
+Output: yes
+
+Input: 10 3
+Output: no
+
+2. Eligible for voting: 
+Input 1:
+Enter age: 19
+Applied for voting: yes
+Output 1: Eligible 
+
+Input 2:
+Enter age: 20
+Applied for voting: no
+Output 2: Not eligible
+
+Input 3:
+Enter age: 15
+Output 3: Not eligible
+
+
+
+3. List contains same elements:
+Input 1: 
+Enter list 1: 2 4 2 6
+Enter list 2: 4 6 2
+Output 1: yes
+
+Input 2: 
+Enter list 1: 2 4 2
+Enter list 2: 4 6 2
+Output 1: no
+
+4. EB bill calculator:
+First 100 units free
+101-200 cost is 2 rupees per unit
+Above 200 cost is 5 rupees per unit
+
+Enter units: 76
+Bill amount: 0
+
+Enter units: 130
+Bill amount: 60
+
+Enter units: 250
+Bill amount:450
